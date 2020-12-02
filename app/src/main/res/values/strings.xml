@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NearOom</string>
+    <string name="button">测试OOM</string>
+</resources>
